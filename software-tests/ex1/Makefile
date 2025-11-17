@@ -1,5 +1,5 @@
 test: src/file.py tests/test.py
-	python -m unittest discover -s tests
+	python3 -m unittest discover -s tests
 	rm -rf src/__pycache__
 	rm -rf tests/__pycache__
 
