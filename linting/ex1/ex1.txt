@@ -1,2 +1,0 @@
-1) Die Test Coverage ist 0 %
-3) Bugs: 1, Code-Smells: 7
