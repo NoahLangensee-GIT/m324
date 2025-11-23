@@ -1,0 +1,3 @@
+4.1) SonarQube findet keine Issues im neuen Projekt.
+
+4.3) SonarQube findet nun zwei CodeSmells "Add a docstring to this module." und "Add a docstring to this function."
